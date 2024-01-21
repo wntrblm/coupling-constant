@@ -6,8 +6,8 @@
 
   (title_block
     (title "Coupling Constant")
-    (date "2024-01-07")
-    (rev "v0")
+    (date "2024-01-20")
+    (rev "v1")
     (company "Winterbloom")
     (comment 1 "Alethea Flowers")
     (comment 2 "CERN-OHL-P V2")
@@ -1960,7 +1960,7 @@
     )
   )
 
-  (symbol (lib_id "Amplifier_Operational:TL072") (at 128.905 84.455 0) (unit 1)
+  (symbol (lib_id "Amplifier_Operational:TL072") (at 128.905 84.455 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7ad237a2-653b-4c9c-80ad-38cb7e4a93ae)
     (property "Reference" "U101" (at 125.77 75.2307 0)
@@ -2082,13 +2082,13 @@
     )
   )
 
-  (symbol (lib_id "Amplifier_Operational:TL072") (at 167.64 81.915 0) (unit 2)
+  (symbol (lib_id "Amplifier_Operational:TL072") (at 167.64 81.915 0) (mirror x) (unit 2)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9b37fd9b-0f27-4db9-8486-82fcde923c1b)
-    (property "Reference" "U101" (at 164.505 72.6907 0)
+    (property "Reference" "U101" (at 164.4143 72.6907 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "TL072" (at 164.505 75.1149 0)
+    (property "Value" "TL072" (at 164.4143 75.1149 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Package_SO:TSSOP-8_4.4x3mm_P0.65mm" (at 167.64 81.915 0)
