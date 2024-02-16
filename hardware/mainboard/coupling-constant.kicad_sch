@@ -2,7 +2,7 @@
 
   (uuid 883ec5d1-2fe1-431c-85b4-4497b9f1586a)
 
-  (paper "A4")
+  (paper "USLetter")
 
   (title_block
     (title "Coupling Constant")
