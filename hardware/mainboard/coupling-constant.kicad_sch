@@ -1764,7 +1764,7 @@
     (property "Rating" "125mW/1%/Thin" (at 84.455 139.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "mpn" "RT0805FRE0720KL" (at 84.455 139.7 0)
+    (property "mpn" "RT0805FRE074K7L" (at 84.455 139.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 54b2b3b3-79ed-4503-bcdf-7ec8cea0fa7e))
